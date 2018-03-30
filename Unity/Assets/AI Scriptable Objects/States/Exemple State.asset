@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2710590c1cde654f8e92bf7b4351d72, type: 3}
+  m_Name: Exemple State
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: fdda3ab518f45324983a7461bdbe7997, type: 2}
+  triggers:
+  - {fileID: 11400000, guid: 74577af5378f5c04eb3817035028c7cc, type: 2}
