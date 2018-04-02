@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
+// SCRIPT OBSOLETO, INCORPORADO AO PLAYERSCRIPT
 
 	public Transform cam;
 	public float velocity = 10;
